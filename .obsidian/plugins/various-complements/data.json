@@ -1,0 +1,1413 @@
+{
+  "strategy": "chinese",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 24,
+  "maxNumberOfWordsAsPhrase": 5,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": true,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^。，：？『",
+  "showMatchStrategy": false,
+  "showComplementAutomatically": false,
+  "showIndexingStatus": false,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Tab",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": true,
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "Extras/Templates/其他/dict/dict.md",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "Extras/Templates/其他/dict/dict.md",
+  "columnDelimiter": "Pipe",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "+=",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "=>",
+  "caretLocationSymbolAfterComplement": "$END$",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "MOC": {
+      "MOC": {
+        "frontMatter": {
+          "count": 62,
+          "lastUpdated": 1660386933497
+        },
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1659646275064
+        }
+      }
+    },
+    "obsidian": {
+      "obsidian": {
+        "internalLink": {
+          "count": 13,
+          "lastUpdated": 1660653730831
+        }
+      },
+      "🤖obsidian": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1660741953720
+        }
+      }
+    },
+    "co-tip": {
+      "co-tip": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1660584987224
+        }
+      }
+    },
+    "todo/持续迭代": {
+      "todo/持续迭代": {
+        "frontMatter": {
+          "count": 16,
+          "lastUpdated": 1659623531549
+        }
+      }
+    },
+    "roamresearch": {
+      "roamresearch": {
+        "currentVault": {
+          "count": 4,
+          "lastUpdated": 1660711831234
+        }
+      }
+    },
+    "PARA": {
+      "PARA": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1658850169450
+        }
+      }
+    },
+    "article/done": {
+      "article/done": {
+        "frontMatter": {
+          "count": 5,
+          "lastUpdated": 1659764838852
+        }
+      }
+    },
+    "ACCESS 笔记组织法": {
+      "ACCESS 笔记组织法": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1660117117135
+        }
+      }
+    },
+    "S3 - 对象存储服务": {
+      "S3 - 对象存储服务": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1660510294544
+        }
+      }
+    },
+    "excalibrain": {
+      "excalibrain": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1660488934023
+        }
+      }
+    },
+    "netlify": {
+      "netlify": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1659986339736
+        }
+      }
+    },
+    "frontmatter": {
+      "frontmatter": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1660052856955
+        }
+      }
+    },
+    "重器轻用": {
+      "重器轻用": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1659762306813
+        }
+      }
+    },
+    "VSCode": {
+      "VSCode": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1659364753851
+        }
+      }
+    },
+    "longform": {
+      "longform": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1659364898112
+        }
+      }
+    },
+    "@Nick Milo": {
+      "@Nick Milo": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1658571653356
+        }
+      }
+    },
+    "@Tiago Forte": {
+      "@Tiago Forte": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1659444346439
+        }
+      }
+    },
+    "Resource": {
+      "Resource": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1660384140165
+        }
+      }
+    },
+    "😣": {
+      "😣": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658391655542
+        }
+      }
+    },
+    "囚徒健身：用失传的技艺练就强大的生存实力-保罗·威德": {
+      "囚徒健身：用失传的技艺练就强大的生存实力-保罗·威德": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658392286864
+        }
+      }
+    },
+    "Roam Research": {
+      "Roam Research": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1660052738452
+        }
+      }
+    },
+    "anki-like": {
+      "anki-like": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658399478590
+        }
+      }
+    },
+    "小镇做题家": {
+      "小镇做题家": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658399665763
+        }
+      }
+    },
+    "supermemo": {
+      "supermemo": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658407107560
+        }
+      }
+    },
+    "工作和生活的效率体系建设": {
+      "工作和生活的效率体系建设": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658479438645
+        }
+      }
+    },
+    "文件夹和标签": {
+      "文件夹和标签": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658480833491
+        }
+      }
+    },
+    "PKM": {
+      "PKM": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658571596893
+        }
+      }
+    },
+    "@zsolt": {
+      "@zsolt": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658571626041
+        }
+      }
+    },
+    "daily": {
+      "daily": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658571877544
+        }
+      }
+    },
+    "dailynote": {
+      "dailynote": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1660113193138
+        }
+      }
+    },
+    "卡片笔记": {
+      "卡片笔记": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658571887453
+        }
+      }
+    },
+    "raycast": {
+      "raycast": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1659201325575
+        }
+      }
+    },
+    "CDN": {
+      "CDN": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658661621556
+        }
+      }
+    },
+    "GFW list": {
+      "GFW list": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658661690316
+        }
+      }
+    },
+    "DNS": {
+      "DNS": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658661697124
+        }
+      }
+    },
+    "cubox": {
+      "cubox": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1658855839629
+        }
+      },
+      "🤖cubox": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1660588389206
+        }
+      }
+    },
+    "诗词": {
+      "诗词": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1658848882827
+        }
+      }
+    },
+    "发展中国家": {
+      "发展中国家": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658848982489
+        }
+      }
+    },
+    "知识管理": {
+      "知识管理": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658849134632
+        }
+      }
+    },
+    "🧀 知识管理": {
+      "🧀 知识管理": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658849138207
+        }
+      }
+    },
+    "个人知识管理": {
+      "个人知识管理": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658849142097
+        }
+      }
+    },
+    "ryooo的知识管理工作流": {
+      "ryooo的知识管理工作流": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658849147950
+        }
+      }
+    },
+    "管理": {
+      "管理": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658849151421
+        }
+      }
+    },
+    "知识库": {
+      "知识库": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658849157528
+        }
+      }
+    },
+    "README": {
+      "README": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658849371156
+        }
+      }
+    },
+    "newsletter": {
+      "newsletter": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1658849793509
+        }
+      }
+    },
+    "得到": {
+      "得到": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658849913993
+        }
+      }
+    },
+    "知识付费": {
+      "知识付费": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1658849983964
+        }
+      }
+    },
+    "简悦": {
+      "简悦": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1658855835453
+        }
+      }
+    },
+    "导出": {
+      "导出": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658855877614
+        }
+      }
+    },
+    "模板": {
+      "模板": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658855884469
+        }
+      }
+    },
+    "api": {
+      "api": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658855898483
+        }
+      }
+    },
+    "门槛": {
+      "门槛": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658855953296
+        }
+      }
+    },
+    "文档": {
+      "文档": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658855965806
+        }
+      }
+    },
+    "费用": {
+      "费用": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658855986984
+        }
+      }
+    },
+    "买断": {
+      "买断": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1658855990883
+        }
+      }
+    },
+    "费曼技巧": {
+      "费曼技巧": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659103720114
+        }
+      }
+    },
+    "review": {
+      "review": {
+        "frontMatter": {
+          "count": 11,
+          "lastUpdated": 1660544748293
+        }
+      }
+    },
+    "收录": {
+      "收录": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1659182942998
+        }
+      }
+    },
+    "notion": {
+      "notion": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659201430519
+        }
+      },
+      "🤖notion": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660106532112
+        }
+      }
+    },
+    "价值序列": {
+      "价值序列": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659349330880
+        }
+      }
+    },
+    "local first": {
+      "local first": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1660051697430
+        }
+      }
+    },
+    "note-refactor": {
+      "note-refactor": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659364862653
+        }
+      }
+    },
+    "co-bug": {
+      "co-bug": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1659474035351
+        }
+      }
+    },
+    "index索引": {
+      "index索引": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1659495642617
+        }
+      }
+    },
+    "modified": {
+      "modified": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1659497495542
+        }
+      }
+    },
+    "dataview": {
+      "dataview": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1660055366947
+        },
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1660102182290
+        }
+      }
+    },
+    "inline fields": {
+      "inline fields": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659615366418
+        }
+      }
+    },
+    "metadata": {
+      "metadata": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1659615510254
+        }
+      }
+    },
+    "kubernetes": {
+      "kubernetes": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659615653538
+        }
+      }
+    },
+    "TOC": {
+      "TOC": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1660733739880
+        }
+      }
+    },
+    "Sources": {
+      "Sources": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1659885692861
+        }
+      }
+    },
+    "微信读书": {
+      "微信读书": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659620177769
+        }
+      }
+    },
+    "weread plugin": {
+      "weread plugin": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659620192306
+        }
+      }
+    },
+    "zlibrary": {
+      "zlibrary": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659620412311
+        }
+      }
+    },
+    "zoter": {
+      "zoter": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1659621846342
+        }
+      }
+    },
+    "zotero": {
+      "zotero": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659621848677
+        }
+      }
+    },
+    "source": {
+      "source": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659639566915
+        }
+      }
+    },
+    "-1": {
+      "-1": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1659639702480
+        }
+      }
+    },
+    "⚙️": {
+      "⚙️": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693054146
+        }
+      }
+    },
+    "编码": {
+      "编码": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693144748
+        }
+      }
+    },
+    "✨工欲善其事，必先利其器。--《论语》": {
+      "✨工欲善其事，必先利其器。--《论语》": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659693165244
+        }
+      }
+    },
+    "闪亮": {
+      "闪亮": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693175089
+        }
+      }
+    },
+    "网站": {
+      "网站": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693191422
+        }
+      }
+    },
+    "🔡OKR": {
+      "🔡OKR": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659693207750
+        }
+      }
+    },
+    "人人": {
+      "人人": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1659693255888
+        }
+      }
+    },
+    "🧑": {
+      "🧑": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693253289
+        }
+      }
+    },
+    "🪞天无绝人之路": {
+      "🪞天无绝人之路": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659693275986
+        }
+      }
+    },
+    "supercharged-links": {
+      "supercharged-links": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1660051940110
+        }
+      }
+    },
+    "🧠": {
+      "🧠": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693481831
+        }
+      }
+    },
+    "大脑": {
+      "大脑": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693485745
+        }
+      }
+    },
+    "📖": {
+      "📖": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693535585
+        }
+      }
+    },
+    "读书": {
+      "读书": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1659947857435
+        }
+      }
+    },
+    "🏹": {
+      "🏹": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693561053
+        }
+      }
+    },
+    "表格": {
+      "表格": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693597419
+        }
+      }
+    },
+    "卡片盒笔记法 - Zettelkasten": {
+      "卡片盒笔记法 - Zettelkasten": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659693635824
+        }
+      }
+    },
+    "readme说明": {
+      "readme说明": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1659694180747
+        }
+      }
+    },
+    "收据": {
+      "收据": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659693917813
+        }
+      }
+    },
+    "模板汇总": {
+      "模板汇总": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659695882951
+        }
+      }
+    },
+    "搬运工": {
+      "搬运工": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659695971383
+        }
+      }
+    },
+    "🐤老六": {
+      "🐤老六": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659703504358
+        }
+      }
+    },
+    "todo/本周": {
+      "todo/本周": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1659727330013
+        }
+      }
+    },
+    "源自": {
+      "源自": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659766014160
+        }
+      }
+    },
+    "AWS": {
+      "AWS": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659766025533
+        }
+      }
+    },
+    "co-no": {
+      "co-no": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1659861587403
+        }
+      }
+    },
+    "co-note": {
+      "co-note": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1659861590076
+        }
+      }
+    },
+    "co-info": {
+      "co-info": {
+        "customDictionary": {
+          "count": 15,
+          "lastUpdated": 1659950856339
+        }
+      }
+    },
+    "君子性非异也，善假于物也。--荀子 《劝学》": {
+      "✨君子性非异也，善假于物也。--荀子 《劝学》": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659862022794
+        }
+      }
+    },
+    "耗时耗力": {
+      "耗时耗力": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1659866123029
+        }
+      }
+    },
+    "vim": {
+      "vim": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659882993379
+        }
+      }
+    },
+    "orphaned": {
+      "orphaned": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1659892541761
+        }
+      }
+    },
+    "logseq": {
+      "🤖logseq": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659893795923
+        }
+      }
+    },
+    "linter": {
+      "linter": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1660055431977
+        },
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660055435921
+        }
+      }
+    },
+    "MacOS": {
+      "MacOS": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659950873119
+        }
+      }
+    },
+    "alfred": {
+      "alfred": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659952498856
+        }
+      }
+    },
+    "powershell": {
+      "powershell": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1659952980497
+        }
+      }
+    },
+    "markdown": {
+      "markdown": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660019422824
+        }
+      }
+    },
+    "自上而下": {
+      "自上而下": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1660030204455
+        }
+      }
+    },
+    "自下而上": {
+      "自下而上": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660030208162
+        }
+      }
+    },
+    "DailyNote": {
+      "DailyNote": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1660113196080
+        }
+      }
+    },
+    "wikilink": {
+      "wikilink": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1660100047310
+        }
+      }
+    },
+    "gatsby": {
+      "gatsby": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660051530507
+        }
+      }
+    },
+    "Calendar": {
+      "Calendar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1660053078821
+        }
+      }
+    },
+    "periodic-notes": {
+      "periodic-notes": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660053086319
+        }
+      }
+    },
+    "remotely save": {
+      "remotely save": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660053432710
+        }
+      }
+    },
+    "zettelkasten": {
+      "zettelkasten": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660054647205
+        }
+      }
+    },
+    "2022-08-09": {
+      "2022-08-09": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660055217829
+        }
+      }
+    },
+    "another quick switcher": {
+      "another quick switcher": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660055309742
+        }
+      }
+    },
+    "tutorial": {
+      "tutorial": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1660077593955
+        }
+      }
+    },
+    "本库推荐的obsidian入门路线及资源": {
+      "本库推荐的obsidian入门路线及资源": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660115633804
+        }
+      }
+    },
+    "原因": {
+      "原因": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660115649971
+        }
+      }
+    },
+    "本库的设计哲学": {
+      "本库的设计哲学": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660115737887
+        }
+      }
+    },
+    "比个心心的手势": {
+      "比个心心的手势": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1660136279744
+        }
+      }
+    },
+    "比个心": {
+      "比个心": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1660136373392
+        }
+      }
+    },
+    "EMO了": {
+      "🐤EMO了": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660136664584
+        }
+      }
+    },
+    "😂": {
+      "😂": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660136957775
+        }
+      }
+    },
+    "❤️": {
+      "❤️": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660136976145
+        }
+      }
+    },
+    "👍": {
+      "👍": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660137025796
+        }
+      }
+    },
+    "😭": {
+      "😭": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660137034211
+        }
+      }
+    },
+    "🙏": {
+      "🙏": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660137044046
+        }
+      }
+    },
+    "😅": {
+      "😅": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660137664225
+        }
+      }
+    },
+    "卢曼": {
+      "🧑卢曼": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660145429669
+        }
+      }
+    },
+    "收藏家谬误": {
+      "收藏家谬误": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660145899924
+        }
+      }
+    },
+    "sidebarDataview": {
+      "sidebarDataview": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1660334565710
+        }
+      }
+    },
+    "Project": {
+      "Project": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660383866204
+        }
+      }
+    },
+    "少楠": {
+      "🧑少楠": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660399974291
+        }
+      }
+    },
+    "OG": {
+      "🐤OG": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660420757256
+        }
+      }
+    },
+    "间隔重复": {
+      "间隔重复": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660421632199
+        }
+      }
+    },
+    "常青笔记应面向概念": {
+      "常青笔记应面向概念": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660421946867
+        }
+      }
+    },
+    "读书笔记模板": {
+      "读书笔记模板": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660480796538
+        }
+      }
+    },
+    "heptabase": {
+      "heptabase": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660489034145
+        }
+      }
+    },
+    "jsdelivr": {
+      "jsdelivr": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660510241031
+        }
+      }
+    },
+    "于是": {
+      "于是": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660537937386
+        }
+      }
+    },
+    "2022-08-15": {
+      "2022-08-15": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660563882689
+        }
+      }
+    },
+    "File cooker": {
+      "File cooker": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660575809318
+        }
+      }
+    },
+    "分类学": {
+      "分类学": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660582555526
+        }
+      }
+    },
+    "独立思考": {
+      "独立思考": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660584595907
+        }
+      }
+    },
+    "dataviewjs": {
+      "dataviewjs": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660586206505
+        }
+      }
+    },
+    "看心情整理文件和MOC": {
+      "看心情整理文件和MOC": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660587283417
+        }
+      }
+    },
+    "块引用": {
+      "块引用": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660588860095
+        }
+      }
+    },
+    "todo/今天": {
+      "todo/今天": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1660588940060
+        }
+      }
+    },
+    "飞书妙记": {
+      "飞书妙记": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1660589088416
+        }
+      }
+    },
+    "spaced-repetition": {
+      "spaced-repetition": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660653755551
+        }
+      }
+    },
+    "系统": {
+      "系统": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660735919556
+        }
+      }
+    },
+    "留言": {
+      "留言": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660735925515
+        }
+      }
+    },
+    "方案": {
+      "方案": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1660735957627
+        }
+      }
+    },
+    "问题": {
+      "问题": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1660735948777
+        }
+      }
+    }
+  }
+}

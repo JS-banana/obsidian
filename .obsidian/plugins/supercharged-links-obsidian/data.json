@@ -1,0 +1,143 @@
+{
+  "targetAttributes": [
+    "up",
+    "x",
+    "title"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "tag",
+      "name": "flashcards",
+      "value": "review",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "b19c-8ca5",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "flashcards",
+      "value": "excalidraw",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "1cde-e955",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "flashcards",
+      "value": "todo",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "75fc-e339",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "flashcards",
+      "value": "MOC",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "7c4c-9ddb",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "cards",
+      "value": "weread",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8b14-901d",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "published",
+      "value": "done",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "01f9-c3f3",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "published",
+      "value": "TOC",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "2d72-a9bb",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "published",
+      "value": "dataview",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "0ba9-36fe",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "published",
+      "value": "tutorial",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "17d0-6ee6",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "title",
+      "value": "HOMEPAGE",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f22f-8852",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ],
+  "presetFields": [],
+  "displayFieldsInContextMenu": false,
+  "globallyIgnoredFields": [
+    ""
+  ],
+  "classFilesPath": ""
+}

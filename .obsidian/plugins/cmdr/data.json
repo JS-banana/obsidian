@@ -1,0 +1,89 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-linter:lint-file",
+      "icon": "lint-file",
+      "name": "Linter: Lint the current file",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [
+    {
+      "id": "app:toggle-right-sidebar",
+      "icon": "align-right",
+      "name": "Toggle right sidebar",
+      "mode": "any"
+    },
+    {
+      "id": "app:toggle-left-sidebar",
+      "icon": "align-left",
+      "name": "折叠/展开左侧边栏",
+      "mode": "any"
+    },
+    {
+      "id": "publish:view-changes",
+      "icon": "paper-plane-glyph",
+      "name": "发布: 发布更改",
+      "mode": "any"
+    },
+    {
+      "id": "remotely-save:start-sync",
+      "icon": "remotely-save-sync-wait",
+      "name": "Remotely Save: 开始同步（start sync）",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-weread-plugin:sync-weread-notes-command",
+      "icon": "book-open",
+      "name": "Weread Plugin: Sync Weread Notes",
+      "mode": "any"
+    }
+  ],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "navigate-glyph",
+      "name": "文件列表: 在文件列表中显示当前文件",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-source",
+      "icon": "code-glyph",
+      "name": "切换实时阅览/源码模式",
+      "mode": "any"
+    },
+    {
+      "id": "app:go-forward",
+      "icon": "right-arrow-with-tail",
+      "name": "前进",
+      "mode": "any"
+    },
+    {
+      "id": "app:go-back",
+      "icon": "left-arrow-with-tail",
+      "name": "返回",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "复习卡片",
+      "新建 Excalidraw 绘图",
+      "Show Slide Preview",
+      "插入模板",
+      "Manage workspace layouts",
+      "BRAT",
+      "打开命令面板"
+    ]
+  },
+  "spacing": "8"
+}

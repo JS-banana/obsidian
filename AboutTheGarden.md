@@ -1,0 +1,31 @@
+---
+comments: true
+date created: 2022-08-06
+date modified: 2022-08-17
+id: home
+layout: page
+permalink: /
+tags:
+  - tutorial
+title: Home
+---
+
+hello👋，我是oldwinter❄️，写过几万行代码，带过十几人团队。
+
+这里是一座「全开放式，每日更新」的[[数字花园]]，由原子化的[[卡片笔记]]编织而成。目前主要在浇灌这2个领域⭕：
+
+- [[🗜 效率工具使用]]
+- [[🧀 个人知识管理]]
+
+既然你诚心诚意地，闯入了我的花园，那我就大发慈悲地，给你一张地图：[[☘️ 花园导览 🍀]]。
+
+开个玩笑，客官莫怪😂。虽然有导览，但这绝不是传统的博客，这是我[[思考的过程容器]]，所以可能有很多看起来令人费解的半成品内容。当您漫步花园时，这里有2个不成熟的小建议💁：
+
+- 尽量通过鼠标悬浮预览进行[[上下文]]不中断的阅读。
+- 尽量通过底部[[反向链接]]找回来时的路。
+
+这座数字花园使用[[🤖obsidian]]写作和发布，且毫无保留地开源，这里是[[README]]，这里是项目地址：[GitHub - oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden)。
+
+这座花园里，我挖了很多坑🕳，如果你想敦促我加速填坑，或有一些建议和问题，欢迎来[Github Discussions](https://github.com/oldwinter/knowledge-garden/discussions)。如果方便的话，给个star⭐️呗。
+
+最后，如果您发现了令人不适的内容，或我的个人隐私，请告知我，万分感谢🦀🦀: cdd2zju@gmail.com

@@ -1,0 +1,17 @@
+{
+  "closeWithBackspace": false,
+  "fileSearchPrefix": "/",
+  "tagSearchPrefix": "#",
+  "suggestionLimit": 50,
+  "recentAbovePinned": false,
+  "hyperKeyOverride": false,
+  "macros": [],
+  "hotkeyStyle": "auto",
+  "createNewFileMod": "Mod",
+  "createNewPaneMod": "Shift",
+  "hiddenCommands": [
+    "editor:insert-link"
+  ],
+  "hiddenFiles": [],
+  "hiddenTags": []
+}
